@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66490613281",
+    "project_id": "canteen-manager-pro",
+    "storage_bucket": "canteen-manager-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66490613281:android:498a74d8b11a6fd20f6d60",
+        "android_client_info": {
+          "package_name": "com.example.canteenmanagerpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66490613281-06uv9b6dhlslt94hqdbau60mfnhr0vr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjBtwcSB13CHIHhvBdd7E0ocdhlM7MSbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66490613281-06uv9b6dhlslt94hqdbau60mfnhr0vr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
